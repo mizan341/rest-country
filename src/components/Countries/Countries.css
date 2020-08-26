@@ -1,0 +1,23 @@
+.allInformation img{
+    width: 200px;
+    height: 150px;
+}
+.allInformation{
+   padding: 20px 20px 20px 30px;
+   /* display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around; */
+
+}
+.allItem{
+     border: 2px solid tomato;
+     width: 45%;
+     margin: 20px;
+     background-color:rgb(226, 225, 225);
+}
+.singleInfo{
+    display: flex;
+}
+.singleInfoDD{
+    margin: 0px 15px 0px 15px;
+}
